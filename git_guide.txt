@@ -1,0 +1,14 @@
+git init 
+git add .
+git add /
+git add file
+.gitignore :: to not to upload the node modules on git 
+.gitignore :: template ::: java, c++ c sharp , node js , .......
+git commit -m "msg"
+git bransh -M main
+git origin add url "gitnasdk.git"
+git push -u origin main 
+git push -u orgin main -f
+
+git push
+git push -f 
